@@ -56,3 +56,4 @@ The company will be split into two entities; one will engage in non-profit open-
 ## Contacts
 
 Email: dappykit@gmail.com
+Twitter: https://twitter.com/DappyKit
